@@ -1,2 +1,2 @@
 # Recipes
-dummy repo for my entartainment
+Dummy Repo For My Entartainment
